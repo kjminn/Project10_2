@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Project10_2</string>
+    <string name="btn_done">투료 종료</string>
+    <string name="btn_back">돌아 가기</string>
+</resources>
